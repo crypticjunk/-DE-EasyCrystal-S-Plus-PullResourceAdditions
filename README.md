@@ -1,3 +1,3 @@
 # -DE-EasyCrystal-S-Plus-PullResourceAdditions
-(DE) Easy Crystal S Plus Pull list
-ich hab mal ne liste gemacht, die fehlende items vom game und der eternal mod zu den s+ dedicated storages hinzufügt. diese liste hat keinen zeilenumbruch und wird einfach nach der zeile [StructuresPlus] in die GameUserSettings.ini eingefügt
+## (DE) Easy Crystal S Plus Pull list
+Ich hab mal eine Liste gemacht, die fehlende items vom Game und der Eternal Mod zu den S+ Dedicated Storages hinzufügt. Diese Liste hat keinen Zeilenumbruch und wird einfach nach der Zeile [StructuresPlus] in die GameUserSettings.ini eingefügt.
